@@ -1,20 +1,9 @@
 
 # Code
 
-Please upload your final codes to this folder.
+# np
+in this folder we have the main codes for part one of the question
+parking.v is the main code and tb is test bench
 
-If your project consists of multiple parts (e.g. server, client, and embedded device), create a separate folder for each one.
-
-
-Please edit this *readme* file and give brief description of each part.
-
-**Example:**
-
-## Server
-Server implemeted using `Django`.
-
-## Client
-Pure `HTML`, `CSS`& `JS` is used for user interface.
-
-## ESP32
-ESP32 is prgorammed using `C++` in `Arduino IDE`. 
+# synthesys
+in this folder we have a slightly modified version of main parking code which have made it synthesable for part two of question
